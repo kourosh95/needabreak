@@ -6,23 +6,23 @@ I have made it for my personal usage and personaly use it every day at work and 
 
 You will be notified a minute before lockdown :
 
-<img src="https://github.com/bNobo/needabreak/blob/master/Captures/imminent_lockdown.jpg" alt="imminent lockdown" width="300" />
+<img src="https://bnobo.github.io/needabreak/Captures/imminent_lockdown.jpg" alt="imminent lockdown" width="300" />
 
 When it is time to have a break a countdown will appear :
 
-<img src="https://github.com/bNobo/needabreak/blob/master/Captures/mainwindow.gif" alt="countdown" width="600" />
+<img src="https://bnobo.github.io/needabreak/Captures/mainwindow.gif" alt="countdown" width="600" />
 
 You can verify that the application is running thanks to the task bar icon : 
 
-<img src="https://github.com/bNobo/needabreak/blob/master/Captures/taskbar.jpg" alt="task bar icon" width="400" />
+<img src="https://bnobo.github.io/needabreak/Captures/taskbar.jpg" alt="task bar icon" width="400" />
 
 You can display the application menu by clicking on the coffee cup :
 
-<img src="https://github.com/bNobo/needabreak/blob/master/Captures/menu.jpg" alt="menu" width="300" />
+<img src="https://bnobo.github.io/needabreak/Captures/menu.jpg" alt="menu" width="300" />
 
 The settings window let you choose how long the application will wait before lockdown :
 
-<img src="https://github.com/bNobo/needabreak/blob/master/Captures/settings.jpg" alt="settings" width="500" />
+<img src="https://bnobo.github.io/needabreak/Captures/settings.jpg" alt="settings" width="500" />
 
 # Installation
 If you just want to install the latest version of the application, you can download it [here](https://bnobo.github.io/needabreak/NeedABreak/publish/setup.exe).
